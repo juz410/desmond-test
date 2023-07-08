@@ -18,6 +18,8 @@ print("line12")
 
 print("kok feng IS GAY")
 
+print("Where are you")
+
 print("Kok Feeng is single dog")
 
 print("DESMOND IS GAY")
