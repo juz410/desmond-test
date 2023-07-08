@@ -30,3 +30,4 @@ print("Hackerman")
 with open('virus.txt', 'w') as file:
     file.write('Create a virus in this computer ^o^ ')
 
+print("life is suck")
