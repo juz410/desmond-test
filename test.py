@@ -2,4 +2,4 @@ print("HELLO WORLD")
 
 print("hihi")
 
-print("DESMOND IS GAY")
+print("kok feng IS GAY")
